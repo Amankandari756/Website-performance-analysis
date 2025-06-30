@@ -1,6 +1,6 @@
-# 📊 Website Performance Analysis Using GA4 Data
+# 📊 Website Performance Analysis
 
-This project provides an end-to-end analysis of website performance using Google Analytics 4 (GA4) data. The data includes hourly session-level metrics across different marketing channels. The analysis is presented in both a Jupyter Notebook and a summary report.
+This project provides an end-to-end analysis of website performance. The data includes hourly session-level metrics across different marketing channels. The analysis is presented in both a Jupyter Notebook and a summary report.
 
 ---
 
