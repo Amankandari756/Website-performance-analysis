@@ -51,6 +51,7 @@ A detailed summary of key insights, visuals, and business takeaways.
 ## 🔧 Tech Stack
 
 - Python
+- Numpy
 - Pandas
 - Matplotlib
 - Seaborn
